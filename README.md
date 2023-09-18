@@ -1,10 +1,10 @@
-# Welcome to [Your GitHub Username]'s GitHub Account!
+# Welcome to sanmmie's GitHub Account!
 
 ![Profile Picture](link-to-your-profile-picture)
 
 ## About Me
 
-Hello, I'm [Your Name], a [Your Profession] passionate about [Your Interests]. I believe in the power of technology to make the world a better place, and I love sharing my knowledge and projects with the GitHub community.
+Hello, I'm Oluwasanmi Adebowale, a [Your Profession] passionate about [Your Interests]. I believe in the power of technology to make the world a better place, and I love sharing my knowledge and projects with the GitHub community.
 
 ## Contact Information
 

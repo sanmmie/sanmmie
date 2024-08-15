@@ -4,19 +4,19 @@
 
 ## About Me
 
-Hello, I'm Oluwasanmi Adebowale, a [Your Profession] passionate about [Your Interests]. I believe in the power of technology to make the world a better place, and I love sharing my knowledge and projects with the GitHub community.
+Hello, I'm Oluwasanmi Adebowale, a Software Developer passionate about identifying problems and creating a solution. I believe in the power of technology to make the world a better place, and I love sharing my knowledge and projects with the GitHub community.
 
 ## Contact Information
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Email:** adebowalesanmi@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/oluwasanmiadebowale/)
 - **Twitter:** [Twitter Profile](https://twitter.com/your-twitter-handle)
 
 ## Projects
 
 Here are some of the projects I'm currently working on or have completed:
 
-### Project 1: [Project Name]
+### Project 1: DLCIpay
 
 - **Description:** Briefly describe the project.
 - **GitHub Repository:** [Link to GitHub Repo](https://github.com/your-username/project-repo)

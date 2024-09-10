@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello, I'm Oluwasanmi Adebowale, a Software Developer passionate about identifying problems and creating a solution. I believe in the power of technology to make the world a better place, and I love sharing my knowledge and projects with the GitHub community.
+I'm a software developer interested in web development (front-end, back-end, fullstack), cybersecurity, systems development, programming languages and a lot of other programming-related topics.
 
 ## Contact Information
 

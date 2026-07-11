@@ -1,7 +1,7 @@
 # 👋 Welcome to Sanmi Adebowale's GitHub
 
 <p align="center">
-  <img src="[link-to-your-profile-picture](https://media.licdn.com/dms/image/v2/D4E03AQGRtEAsp0m9tw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701059528951?e=1785369600&v=beta&t=Ej4H2d4XaT-txAcHSoy7-aGM6oVRBXEC8Sm-GJx4Gmc)" alt="Sanmi Adebowale Profile Picture" width="180"/>
+  <img src="[[link-to-your-profile-picture](https://media.licdn.com/dms/image/v2/D4E03AQGRtEAsp0m9tw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701059528951?e=1785369600&v=beta&t=Ej4H2d4XaT-txAcHSoy7-aGM6oVRBXEC8Sm-GJx4Gmc)](https://media.licdn.com/dms/image/v2/D4E03AQGRtEAsp0m9tw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701059528951?e=1785369600&v=beta&t=Ej4H2d4XaT-txAcHSoy7-aGM6oVRBXEC8Sm-GJx4Gmc)" alt="Sanmi Adebowale Profile Picture" width="180"/>
 </p>
 
 <h3 align="center">
